@@ -1,5 +1,5 @@
 ---
-title: "Influence of Titan's Variable Electromagnetic Environment on the Global Distribution of Energetic Neutral Atoms"
+title: "Influence of Titan\'s Variable Electromagnetic Environment on the Global Distribution of Energetic Neutral Atoms"
 collection: publications
 permalink: /publication/global-model22
 excerpt: 'We describe and apply a model of global energetic neutral atom emissions at Titan.'
