@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "Tyler Tippens - About me"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-About Me
-======
 Hello! I am a doctoral candidate and graduate research assistant in the School of Earth and Atmospheric Sciences at the Georgia Institute of Technology in Atlanta, GA.
 
 I'm interested in utilizing the ever-increasing capability and accessibility of large-scale computing environments to enable new avenues of scientific inquiry. I have experience translating broad scientific goals concerning complex systems into quantitative, impactful questions which can be answered through a combination of computer modeling and data analysis. My expertise includes scientific software development, high performance computing, modeling and simulation, data analysis and visualization, and scientific communication.
