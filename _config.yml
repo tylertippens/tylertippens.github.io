@@ -21,7 +21,7 @@ repository               : "tylertippens/tylertippens.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "tyler.jpeg"
   name             : "Tyler Tippens"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate<br>Computational Space Physics<br>Scientific Computing | HPC"
