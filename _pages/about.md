@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Tyler Tippens - About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About Me
 ======
 Hello! I am a doctoral candidate and graduate research assistant in the School of Earth and Atmospheric Sciences at the Georgia Institute of Technology in Atlanta, GA.
