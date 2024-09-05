@@ -13,6 +13,8 @@ I'm interested in utilizing the ever-increasing capability and accessibility of 
 
 My research focuses on the development of novel modeling techniques to enable imaging of moon-magnetosphere plasma interactions in the outer solar system using energetic neutral atoms. This work relies on the creation and application of performant, highly-parallelized simulation codes and on analysis and visualization of complex data products.
 
+Over the course of a minor in scientific machine learning I've also had the privilege of working in two interdiscplinary teams on class projects utilizing ML. In the summer of 2023, I was part of a group which assessed several supervised and unsupervised learning methods for categorizating the success of surgery on stroke patients using brain images. This was done in collaboration with the Emory Neurology department. [Our final report can be found here.](https://codingsoo.github.io/CS-7461-Project/) The following semester, I helped take a first step towards integrating a physics-informed loss function in the data-driven weather prediction model FourCastNet. 
+
 Research Interests
 ======
 
